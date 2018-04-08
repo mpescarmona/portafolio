@@ -1,0 +1,35 @@
+{
+  "siteInfo": {
+    "title": "Super Sitio",
+    "email": "mpescarmona@gmail.com",
+    "short_name": "Mario",
+    "author_homepage": "#",
+    "facebook_link": "https://www.facebook.com/mario.pescarmonatricoli",
+    "twitter_link": "https://twitter.com/mopescarmona",
+    "pinterest_link": "#",
+    "github_link": "#"
+  },
+  "team": [
+    {
+      "frase": "sarasa",
+      "name": "Pedro Navaja",
+      "subtitulo": "Malevo",
+      "twitter": "@pedro_navaja",
+      "url": "https://firebasestorage.googleapis.com/v0/b/portafolio-eeb80.appspot.com/o/team-1.jpg?alt=media&token=6354b5e0-7bcb-4d99-97af-ecdaa4e0801b"
+    },
+    {
+      "frase": "sarasa",
+      "name": "Inodoro Pereyra",
+      "subtitulo": "Gaucho",
+      "twitter": "@inodoro_pereyra",
+      "url": "https://firebasestorage.googleapis.com/v0/b/portafolio-eeb80.appspot.com/o/team-2.jpg?alt=media&token=306ed9c0-c787-4b27-936b-c7331752fb62"
+    },
+    {
+      "frase": "sarasa",
+      "name": "Mendieta",
+      "subtitulo": "Perro",
+      "twitter": "@mendiera",
+      "url": "https://firebasestorage.googleapis.com/v0/b/portafolio-eeb80.appspot.com/o/team-3.jpg?alt=media&token=92727643-ba49-4bfa-b2c8-6a45d1dfab4e"
+    }
+  ]
+}
